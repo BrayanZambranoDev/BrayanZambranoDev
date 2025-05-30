@@ -1,4 +1,4 @@
-ayudame a mejorar al maximo este readme de github para que se vea lo mas profesiona posible si lo quiere ver un reclutador profesional <h1 align="center">👋 ¡Hola! Soy Brayan Zambrano</h1>
+<h1 align="center">👋 ¡Hola! Soy Brayan Zambrano</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+el+Desarrollo+de+Software;Enamorado+de+la+Automatización+y+la+Ciberseguridad;Siempre+en+aprendizaje+constante+y+crecimiento+profesional" alt="Typing SVG" />
