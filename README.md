@@ -95,62 +95,14 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nhasuhndas&show_icons=true&theme=tokyonight&count_private=true" width="300">
+      <img src="https://github-readme-stats.vercel.app/api?username=BrayanZambranoDev&show_icons=true&theme=tokyonight&count_private=true" width="300">
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=nhasuhndas&theme=tokyonight" width="300">
+      <img src="https://streak-stats.demolab.com?user=BrayanZambranoDev&theme=tokyonight" width="300">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhasuhndas&layout=compact&theme=tokyonight" width="300">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanZambranoDev&layout=compact&theme=tokyonight" width="300">
     </td>
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
----
-
-<h2 align="center">📌 Algunos proyectos en los que he trabajado</h2>
-
-<ul>
-  <li>
-    🧠 <strong>Corrector ortográfico inteligente</strong><br>
-    Hecho en Python. Usa librerías como NLTK, SpellChecker y OpenAI. Corrige errores ortográficos en español en tiempo real.
-  </li>
-  <br>
-  <li>
-    🔐 <strong>Keylogger ético</strong><br>
-    Proyecto académico donde implementé un keylogger básico con fines educativos, para comprender su funcionamiento desde la perspectiva de la seguridad informática.
-  </li>
-  <br>
-  <li>
-    🧾 <strong>Sistema de control de implementos universitarios</strong> <em>(en desarrollo)</em><br>
-    Aplicación web desarrollada como proyecto académico. Permite gestionar la entrada/salida de materiales, control por roles, historial y autorizaciones.
-  </li>
-</ul>
-
----
-
-<h2 align="center">📫 ¿Cómo contactarme?</h2>
-
-<p align="center">
-  <a href="mailto:brayansantiagozambranoguzman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/brayan-santiago-zambrano-guzman-52348b250/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
-<blockquote align="center">
-  <em>Siempre con ganas de seguir aprendiendo, practicando y creciendo en este camino de la ingeniería.</em> 🚀
-</blockquote>
