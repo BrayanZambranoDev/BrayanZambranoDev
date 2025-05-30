@@ -98,7 +98,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=BrayanZambranoDev&show_icons=true&theme=tokyonight&count_private=true" width="300">
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=&theme=tokyonight" width="300">
+      <img src="https://streak-stats.demolab.com?user=BrayanZambranoDev&theme=tokyonight" width="300">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanZambranoDev&layout=compact&theme=tokyonight" width="300">
