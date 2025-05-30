@@ -1,7 +1,14 @@
 <h1 align="center">👋 ¡Hola! Soy Brayan Zambrano</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+el+Desarrollo+de+Software;Enamorado+de+la+Automatización+y+la+Ciberseguridad;Siempre+en+aprendizaje+constante+y+crecimiento+profesional" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000
+      &lines=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas
+      &lines=Apasionado%20por%20el%20Desarrollo%20de%20Software
+      &lines=Enamorado%20de%20la%20Automatizaci%C3%B3n%20y%20la%20Ciberseguridad
+      &lines=Siempre%20en%20aprendizaje%20constante%20y%20crecimiento%20profesional"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
