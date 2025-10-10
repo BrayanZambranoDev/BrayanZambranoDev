@@ -138,10 +138,9 @@
   <a href="mailto:brayansantiagozambranoguzman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/brayan-santiago-zambrano-guzmán-52348b250">
+<a href="https://www.linkedin.com/in/brayan-santiago-zambrano-guzmán-52348b250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+</a>
 
 ---
 
