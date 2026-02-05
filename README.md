@@ -41,6 +41,7 @@
   <tr>
     <td><strong>Frameworks y Tecnologías</strong></td>
     <td align="center">
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
@@ -131,14 +132,16 @@
     </td>
     <td width="50%">
       <h3>Auto Responde IA</h3>
-      <p><strong>Tecnologías:</strong> Python, Groq API, PIL, pytesseract</p>
-      <p>Sistema inteligente para el análisis automático de preguntas de opción múltiple. Captura imágenes de pantalla, procesa el texto mediante OCR y utiliza modelos de IA de Groq para determinar las respuestas correctas con análisis detallado.</p>
+      <p><strong>Tecnologías:</strong> Python, Flask, JavaScript, Groq API, Chrome Extension API</p>
+      <p>Sistema completo de análisis automático de preguntas de opción múltiple que combina una API REST desarrollada en Flask con una extensión de navegador. Utiliza modelos avanzados de IA de Groq (LLaMA 3.3, Gemma2, DeepSeek) para analizar y responder preguntas en tiempo real directamente desde el navegador.</p>
       <p><strong>Características principales:</strong></p>
       <ul>
-        <li>Análisis automático de preguntas múltiples</li>
-        <li>Integración con modelos Groq</li>
-        <li>Procesamiento OCR de alta precisión</li>
-        <li>Respuestas justificadas y explicadas</li>
+        <li>API REST con Flask para procesamiento de preguntas</li>
+        <li>Extensión de Chrome con detección automática de texto seleccionado</li>
+        <li>Soporte multi-modelo (LLaMA, Gemma2, DeepSeek, Qwen)</li>
+        <li>Sistema de reintentos inteligente para máxima precisión</li>
+        <li>Validación y limpieza robusta de texto</li>
+        <li>Interfaz discreta con indicadores visuales no intrusivos</li>
       </ul>
       <a href="https://github.com/BrayanZambranoDev/AUTO-RESPONDE-IA">
         <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
