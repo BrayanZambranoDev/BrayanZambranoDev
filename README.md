@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Ingeniero+de+Sistemas+en+Formación;Desarrollador+de+Software;Especialista+en+Automatización+e+IA;Ciberseguridad+y+Hacking+Ético"
-    alt="Typing SVG"
+    alt=""
   />
 </p>
 
