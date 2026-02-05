@@ -91,24 +91,6 @@
 
 ---
 
-<h2 align="center">Estadísticas de GitHub</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=BrayanZambranoDev&show_icons=true&theme=tokyonight&count_private=true" width="300">
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=BrayanZambranoDev&theme=tokyonight" width="300">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanZambranoDev&layout=compact&theme=tokyonight" width="300">
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">Proyectos Destacados</h2>
 
 ### Inteligencia Artificial y Automatización
