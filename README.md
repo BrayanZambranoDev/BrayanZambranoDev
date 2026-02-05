@@ -221,6 +221,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BrayanZambranoDev&color=blue&style=flat-square&label=Visitas+al+perfil">
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrayanZambranoDev&color=blue&style=flat-square&label=Visitas+al+perfil">
-</p>
