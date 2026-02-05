@@ -7,6 +7,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated divider">
+</p>
+
 <hr style="border: 0; height: 1px; background-color: #d0d7de; width: 90%; margin: auto;">
 
 <h2 align="center">Perfil Profesional</h2>
@@ -214,6 +218,9 @@
   <em>Comprometido con el aprendizaje continuo y el desarrollo de soluciones tecnológicas innovadoras.</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrayanZambranoDev&color=blue&style=flat-square&label=Visitas+al+perfil">
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BrayanZambranoDev&color=blue&style=flat-square&label=Visitas+al+perfil">
 </p>
