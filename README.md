@@ -12,10 +12,10 @@
 <h2 align="center">Perfil Profesional</h2>
 
 <p align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
-  Estudiante de 8° semestre de Ingeniería de Sistemas en la Universidad Católica Luis Amigó.<br>
+  Estudiante de 9° semestre de Ingeniería de Sistemas en la Universidad Católica Luis Amigó.<br>
   Especializado en desarrollo de software, automatización de procesos y ciberseguridad.<br>
   Experiencia en el desarrollo de soluciones basadas en inteligencia artificial, procesamiento de lenguaje natural y visión por computadora.<br>
-  Conocimientos avanzados en Python, desarrollo web y pruebas de seguridad con Kali Linux.<br>
+  Conocimientos en Python, desarrollo web y pruebas de seguridad con Kali Linux.<br>
   Enfoque en proyectos de impacto real que integren tecnología y automatización inteligente.
 </p>
 
