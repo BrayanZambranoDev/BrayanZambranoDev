@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated divider">
+  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47ysiuxaxorwoeof5wr0x6nq3x9oggsjgj4n18usa4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="animated divider">
 </p>
 
 <hr style="border: 0; height: 1px; background-color: #d0d7de; width: 90%; margin: auto;">
