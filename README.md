@@ -2,11 +2,15 @@
 
 # Brayan Santiago Zambrano Guzmán
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ingeniería+de+Datos+en+formación;Pipelines+y+automatización+con+Python;Power+BI+%C2%B7+SQL+%C2%B7+APIs" alt="Ingeniería de Datos en formación">
-
-<img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="20%" alt="">
-
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Datos+en+formaci%C3%B3n;Pipelines+y+automatizaci%C3%B3n+con+Python;Power+BI+%C2%B7+SQL+%C2%B7+APIs" alt="Ingeniería de Datos en formación">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="200" alt="">
+</p>
 
 Estudiante de 10.º semestre de Ingeniería de Sistemas en la Universidad Católica Luis Amigó. Me enfoco en ingeniería de datos: extraer información de distintas fuentes, limpiarla, integrarla y dejarla lista para el análisis de forma automática y confiable.
 
